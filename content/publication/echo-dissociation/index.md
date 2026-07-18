@@ -5,7 +5,7 @@ authors:
 - Honghua Chen
 - Mingxuan Fang
 - Nai Ding
-date: "2024-02-015T00:00:00Z"
+date: "2024-02-15T00:00:00Z"
 doi: "doi.org/10.1371/journal.pbio.3002498"
 
 # Schedule page publish date (NOT publication's date).
