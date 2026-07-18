@@ -37,12 +37,15 @@ profiles:
     url: https://github.com/heiheihei730
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=MusGhC0AAAAJ&hl=en
+  - icon: custom/zhihu
+    url: https://www.zhihu.com/people/mo-mo-mo-50-23-39
+    label: Zhihu
 
 interests:
   - Cognitive Neuroscience
   - Computational Linguistics
-  - Artificial Intelligence
   - Psychology
+  - Artificial Intelligence
 
 ---
 ## About Me
