@@ -61,6 +61,23 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: blog
+    content:
+      title: '✍️ Recent Blogs'
+      text: ""
+      filters:
+        folders:
+          - blog
+      # Choose how many blog posts to display (0 = all)
+      count: 3
+      archive:
+        enable: true
+        text: See all blog posts
+        link: blog/
+    design:
+      view: article-grid
+      columns: 3
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
