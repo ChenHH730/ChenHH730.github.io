@@ -4,11 +4,11 @@ authors:
 - Jing Wang
 - Honghua Chen
 - Nai Ding
-date: "2026-06-030T00:00:00Z"
+date: "2026-06-30T00:00:00Z"
 doi: "doi.org/10.64898/2026.06.01.729227"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-06-030T00:00:00Z"
+publishDate: "2026-06-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
